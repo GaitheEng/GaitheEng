@@ -1,13 +1,13 @@
 # 👋 Hi, I'm **Laith Mohammad**
 
-I'm a passionate learner and aspiring developer who loves exploring the world of programming, software engineering, and modern technologies.  
-I enjoy building projects, experimenting with new tools, and constantly improving my skills in the field of computer science.
+I'm a current student and a passionate learner who enjoys exploring the world of programming and modern technologies.  
+I love building small projects, experimenting with new tools, and continuously improving my skills as I learn more about software development.
 
 ---
 
 ## 🚀 About Me
-- 💻 Enthusiastic about programming and information technology  
-- 🌱 Always learning and exploring new technologies  
+- 💻 Student currently learning programming  
+- 🌱 Always exploring new technologies and concepts  
 - 🔧 Interested in software development, problem‑solving, and building useful tools  
 - 🎯 Motivated to grow as a developer and contribute to meaningful projects  
 
@@ -21,8 +21,8 @@ I enjoy building projects, experimenting with new tools, and constantly improvin
 ---
 
 ## 📚 Goals
-- Improve my coding skills through real projects  
-- Learn advanced concepts in software engineering  
+- Improve my programming skills through real projects  
+- Learn advanced concepts step by step  
 - Collaborate with other developers and contribute to open‑source  
 - Build a strong portfolio that reflects my passion and growth  
 
